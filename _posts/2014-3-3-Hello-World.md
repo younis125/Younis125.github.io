@@ -1,9 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: Reliability of Deep Learning Models Matters!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Have you ever thought about deploying your model in some safety-critical systems? Think of the below picture.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
